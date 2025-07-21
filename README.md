@@ -1,9 +1,9 @@
-# SheKamAI 
+# StreeKamai 
 **Empowering Middle-Aged Indian Women Through AI/ML-Powered Entrepreneurship**
 
 ## 🚀 Overview
 
-**SheKamAI** is an AI/ML-driven platform designed to empower middle-aged Indian housewives by helping them transform their hobbies into income-generating businesses. The platform offers an end-to-end entrepreneurial toolkit — from brand creation and strategic planning to financial guidance, marketing automation, and networking.
+**StreeKamai** is an AI/ML-driven platform designed to empower middle-aged Indian housewives by helping them transform their hobbies into income-generating businesses. The platform offers an end-to-end entrepreneurial toolkit — from brand creation and strategic planning to financial guidance, marketing automation, and networking.
 
 ## 🎯 Target Audience
 
@@ -71,20 +71,4 @@
 - Goal completion and business analytics
 
 ---
-
-## 🛠️ Tech Stack
-
-| Layer        | Tools/Tech Used |
-|-------------|-----------------|
-| **Frontend** | React.js, Tailwind CSS |
-| **Backend**  | Node.js, Express.js |
-| **Database** | MongoDB, Firebase Realtime DB |
-| **AI/ML**    | GPT-4, LangChain, Scikit-learn, Firebase ML Kit |
-| **Auth**     | Firebase Auth / JWT |
-| **APIs**     | Twilio, Meta Graph, Canva API, Google Maps, Government APIs |
-| **Automation** | CRON jobs, Zapier |
-| **Chatbot**  | Rasa, Dialogflow |
-| **Visualization** | Chart.js, Recharts, Plotly |
-
----
-SheKamAI is more than just a platform — it’s a movement to empower women, one business at a time.
+StreeKamai is more than just a platform — it’s a movement to empower women, one business at a time.
