@@ -1,25 +1,47 @@
-# Logs
-logs
+# -----------------------------
+# 🐍 Python / Django Backend
+# -----------------------------
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+db.sqlite3
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pem
 
-node_modules
-dist
-dist-ssr
-*.local
+# Django migrations
+**/migrations/
+!*/migrations/__init__.py
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# -----------------------------
+# ⚛️ React (Vite + TypeScript)
+# -----------------------------
+node_modules/
+dist/
+.vite/
+*.env
+*.env.*  # .env.local, .env.production, etc.
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Build artifacts
+*.tsbuildinfo
+
+# -----------------------------
+# ⚙️ IDEs / Editors
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+
+# -----------------------------
+# 💻 macOS / System
+# -----------------------------
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.env
+Thumbs.db
